@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<img src="https://myreadme.vercel.app/api/embed/JuJu222?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuJu222&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuJu222&theme=tokyonight" alt="mystreak"/>
+
 <!--
 **JuJu222/JuJu222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
