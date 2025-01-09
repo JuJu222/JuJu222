@@ -1,20 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<img src="https://myreadme.vercel.app/api/embed/JuJu222?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+Welcome to my GitHub profile! I'm Justin, a passionate software developer with a knack for building web applications that make a tangible difference in people's lives. Here's a little bit about me:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuJu222&theme=tokyonight" alt="mystreak"/>
+---
 
-<!--
-**JuJu222/JuJu222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+### 👨‍💻 Software Developer
+- Full-stack developer specializing in creating seamless and efficient web applications.
+- A firm believer in **continuous learning** and exploring new technologies to solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- Bachelor of Science in Computer Science (Informatics), Class of 2024 - Ciputra University
+  - GPA: **3.98**
+  - **Best Academic Student** Award for the highest GPA in my batch
+
+### 🔭 Interests
+- Full-stack web development
+- Mobile app development (Apple Developer Academy graduate)
+- Artificial Intelligence exploration
+
+### 🌱 When I'm Not Working...
+- Exploring new technologies
+- Learning new problem-solving approaches
+- Tinkering with personal projects that align with my passion for tech
+
+---
+
+## Let’s Connect
+- 🌐 **Website:** [https://www.justinjap.com](https://www.justinjap.com)
+- 📫 **LinkedIn:** [https://www.linkedin.com/in/justinjap/](https://www.linkedin.com/in/justinjap/)
+
+---
+
+Feel free to explore my repositories and projects. I'm open to collaborations and always excited to work on meaningful projects!
